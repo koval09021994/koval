@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 privet vetkki drevo
+
+
+=======
+
+
+pudge have hook
+>>>>>>> drevo
